@@ -29,11 +29,11 @@
                 <form method="post">
                     <div class="mb-3">
                         <label for="nama" class="form-label">Masukkan Nama</label>
-                        <input type="text" class="form-control" id="nama" name="nama" placeholder="Agus">
+                        <input type="text" class="form-control" id="nama" name="nama" placeholder="Karina Distyara">
                     </div>
                     <div class="mb-3">
                         <label for="nim" class="form-label">Masukkan NIM</label>
-                        <input type="text" class="form-control" id="nim" name="nim" placeholder="202332xxx">
+                        <input type="text" class="form-control" id="nim" name="nim" placeholder="202332014">
                     </div>
                     <div class="mb-3">
                         <label for="kehadiran" class="form-label">Nilai Kehadiran (10%)</label>
